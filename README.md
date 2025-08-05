@@ -1,0 +1,1 @@
+Fizz Buzz is a game where players take turns saying numbers. If a number is divisible by 3, you say "fizz" instead. If it's divisible by 5, you say "buzz". If it's divisible by both 3 and 5, you say "fizz buzz".
